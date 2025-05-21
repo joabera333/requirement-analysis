@@ -5,3 +5,4 @@ Key Activities in Requirement Analysis.
 Types of Requirements.
 # Use Case Diagrams.
 https://app.diagrams.alx-booking-uc.png/
+Acceptance Criteria.
